@@ -7,7 +7,7 @@ santa_claus_agent = SantaClausAgent()
 avatars = {"user": "🐸", "assistant": "🎅🏼"}
 
 # Let's dress up...
-st.title("🎄🎅🏼 Santa ChatBot")
+st.title("corma boss")
 left, right = st.columns(2)
 with left:
     if st.button("New chat"):
